@@ -1,4 +1,4 @@
-# woocermerce-mpesa-plugin
+# woocormerce-mpesa-plugin
 Intergret your woocomerce website with mpesa stk push
 this plugin works with our simplified mpesa gateway at https://pay.uxtcloud.com 
 # Wordpress plugin for ipay integration
